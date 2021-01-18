@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//copy pasted from https://code.visualstudio.com/docs/cpp/config-clang-mac
+
 int main()
 {
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
